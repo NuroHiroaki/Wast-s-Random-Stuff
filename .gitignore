@@ -1,0 +1,9 @@
+# Visual Studio cache directory
+.vs/
+
+# MacOS.gitignore
+
+## General
+.DS_Store
+.AppleDouble
+.LSOverride
