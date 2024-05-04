@@ -1,0 +1,477 @@
+{
+    "2": {
+        "30_0": {
+            "lines": [
+                "Oh, Nuro? Is That you?",
+                "You actually came here?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "Hehe, wanna take a walk?."
+            ]
+        },
+        "290_0": {
+            "lines": [
+                "You can't just go here and reject this offer right?",
+                "Right!?"
+            ]
+        }
+    },
+    "0": {
+        "34_0": {
+            "lines": [
+                "It sure is cold on the moon.",
+                "I guess i shouldve taken the walk with Sugiroshi."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<t$Okuu >(Ah, so you can hug him right?",
+                "<l$> And feel warmer.)"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "N-no! Not at all!"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "It's just that i actually kind of liked him,",
+                "where is he now anyways?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "<t$Okuu >(Probably went back to Gensokyo.",
+                "<l$> Or maybe he's just wandering around.)"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Then we should go back then?",
+                "i really miss him."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "<t$Okuu >(In any case,",
+                "<l$> yeah we should probably go back to Gensokyo,)"
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "<t$Okuu >(Oh no, someone is approaching us",
+                "<l$> and they look similar to you?)"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Um, is that me?"
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "Nuro Hiroaki?"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Well, uh...?"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "<t$Okuu >(I don't know,",
+                "<l$> I was trying to find Sugiroshi.)"
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "Huh, are you Nuro Hiroaki too?",
+                "Sorry, we were just finding our way back to Gensokyo ."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "Oh, I see, sorry to have bothered you.",
+                "You can get back to that now..."
+            ]
+        },
+        "206_0": {
+            "lines": [
+                "What were you trying to do anyways?"
+            ]
+        },
+        "214_0": {
+            "lines": [
+                "Uh, nothing.",
+                "Just trying to find something and someone."
+            ]
+        },
+        "222_0": {
+            "lines": [
+                "What do I do now, Okuu?"
+            ]
+        },
+        "230_0": {
+            "lines": [
+                "<t$Okuu >(Hmm, if he was trying to find something on the moon,",
+                "<l$> it would take more than a week to do so .)"
+            ]
+        },
+        "238_0": {
+            "lines": [
+                "Are you looking for Sugiroshi, too?"
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "Yeah, kind of."
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "Did you come to this moon",
+                "because it looked strange, too?"
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "Strange?"
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "I heard you can get the ultimate power",
+                "if you stole a certain lunarian's weapon."
+            ]
+        },
+        "278_0": {
+            "lines": [
+                "<t$Okuu >(Really, now?",
+                "<l$> Who's weapon is that even?)"
+            ]
+        },
+        "286_0": {
+            "lines": [
+                "I heard it from a yellow haired girl.",
+                "She looked like Yukari."
+            ]
+        },
+        "294_0": {
+            "lines": [
+                "Yellow Haired Girl? Yukari?",
+                "I've got a bad feeling about this."
+            ]
+        },
+        "302_0": {
+            "lines": [
+                "<t$Okuu >(...A bad feeling...",
+                "<l$> Nuro.)"
+            ]
+        },
+        "310_0": {
+            "lines": [
+                "<t$Okuu >(Nuro Hiroaki.",
+                "<l$> Put your ability to use!)"
+            ]
+        },
+        "318_0": {
+            "lines": [
+                "Hey,i cant just do that right now!"
+            ]
+        },
+        "326_0": {
+            "lines": [
+                "Do you want to find Sugiroshi, too?"
+            ]
+        },
+        "334_0": {
+            "lines": [
+                "Well, that would be great but,",
+                "can we not fight?"
+            ]
+        },
+        "342_0": {
+            "lines": [
+                "Nope."
+            ]
+        },
+        "350_0": {
+            "lines": [
+                "My big bro is always saying that you can't beat that lunarian ",
+                "if you can't even beat yourself!"
+            ]
+        },
+        "358_0": {
+            "lines": [
+                "I don't have anything against you,",
+                "but I hope you're ready to die a dog's death!"
+            ]
+        },
+        "366_0": {
+            "lines": [
+                "Oh, don't worry, Sugiroshi will carry off your body,",
+                "so you'll be able to live in our place!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Wooow... You're really strong!",
+                "I see I was wrong to think you have just the same strength as me."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "But I am you."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "No way!",
+                "I can't believe another me could be so strong... oh,"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "Are you the person that came to",
+                "play in the Grey Youkai Mountain my  big bro created??"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Grey Youkai Mountain?",
+                "Hm, I think I've been there before."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Really?",
+                "There can't be that many people as strong as you."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "I'm Nuro Hiroaki.",
+                "I live in uh, somewhere."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "<t$Okuu >(What did he say...? I thought",
+                "<l$> she was just another version of you at first.)"
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "Huh, your intuition's not that great.",
+                "It's obvious he's another version of me to me."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "<t$Okuu >(...You don't feel like a",
+                "<l$> youkai to me.)"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "<t$Okuu >(Actually...",
+                "<l$> I can't see any weakness at all from you.)"
+            ]
+        },
+        "118_0": {
+            "lines": [
+                "That's because I deal",
+                "my brother erased them!"
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "So uh, i know where Sugiroshi is,",
+                "I dont know if he's still there though."
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "<t$Okuu >(Ask him where he is.",
+                "<l$> if you miss him that bad.)"
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Where is he??"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "You're really strong.",
+                "Do you want to come play at my house?"
+            ]
+        },
+        "158_0": {
+            "lines": [
+                "Well, I don't have anything better to do,",
+                "but it's so far away."
+            ]
+        },
+        "166_0": {
+            "lines": [
+                "<t$Okuu >(Are you Seishin's",
+                "<l$> younger brother?)"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "Yes!"
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "<t$Okuu >(Hmm, I hadn't heard that you had a younger brother, Nuro.)"
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "Just where is Nuro?"
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "Sugiroshi?? Is that you??",
+                "What were you off doing?"
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "We just saw each other a hour ago!"
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "Anyway, what are you here for?",
+                "This moon is pretty empty i say."
+            ]
+        },
+        "278_0": {
+            "lines": [
+                "Does it even matter? *hugs*"
+            ]
+        },
+        "286_0": {
+            "lines": [
+                "Hey,i missed you alot.",
+                "Where were you?"
+            ]
+        },
+        "294_0": {
+            "lines": [
+                "<t$Okuu >(Cute.",
+                "<l$> Very cute.)"
+            ]
+        },
+        "302_0": {
+            "lines": [
+                "<t$Okuu >(So uh we gonna go back to the earth or?",
+                "<l$>     you and Sugiroshi were gonna go to Geidontei remember?)"
+            ]
+        },
+        "310_0": {
+            "lines": [
+                "Geidontei..?",
+                "Oh right, we talked about it after you defeated that crow."
+            ]
+        },
+        "318_0": {
+            "lines": [
+                "Guh?"
+            ]
+        },
+        "326_0": {
+            "lines": [
+                "Oh,Dont you remember?",
+                "after you defeated that crow we-"
+            ]
+        },
+        "334_0": {
+            "lines": [
+                "Nevermind.",
+                "Lets just go to Gensokyo already."
+            ]
+        },
+        "342_0": {
+            "lines": [
+                "Wast.",
+                "What do you want from Geidontei?"
+            ]
+        },
+        "350_0": {
+            "lines": [
+                "I'm still thinking of my order.",
+                "If you cant think of any, i will just surprise you."
+            ]
+        },
+        "358_0": {
+            "lines": [
+                "I can't think of any.Do you just wanna take a walk in the",
+                "Nethworld? The cherryblossoms are nice there"
+            ]
+        },
+        "366_0": {
+            "lines": [
+                "<t$Okuu >(True.",
+                "<l$>     ?)"
+            ]
+        },
+        "374_0": {
+            "lines": [
+                "Anyway, lets go now?"
+            ]
+        },
+        "382_0": {
+            "lines": [
+                "Sure :3",
+                "I guess we still have time."
+            ]
+        },
+        "390_0": {
+            "lines": [
+                "Also,ive noticed you are always the one hugging me first.",
+                "Atleast let me hug you!!"
+            ]
+        },
+        "398_0": {
+            "lines": [
+                "<t$Okuu >(So, in the end this whole incident was just ",
+                "<l$> Doremy messing around?)"
+            ]
+        },
+        "406_0": {
+            "lines": [
+                "<t$Okuu >(I'm tired...",
+                "<l$> I'm going to bed.)"
+            ]
+        },
+        "414_0": {
+            "lines": [
+                "Well, I'm going to go back now!",
+                "You promised!"
+            ]
+        },
+        "422_0": {
+            "lines": [
+                "Well, this is nice.",
+                "I get to have a walk with Sugiroshi in the Netherworld."
+            ]
+        },
+        "430_0": {
+            "lines": [
+                "Okay, i should probably catch up to  Sugiroshi now.. "
+            ]
+        }
+    }
+}
