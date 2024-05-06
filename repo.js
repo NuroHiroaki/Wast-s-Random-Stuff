@@ -3,7 +3,7 @@
 "title": "Wast's Repository",
 "contact": "reisenudongein.inaba",
 "servers": [
-    "https://mirrors.thpatch.net/Wast's Random Stuff/"
+    "https://mirrors.thpatch.net/Wast/"
     ],
 "patches": {
 "ImperishableDay": "(TH11) カラスの南の太陽 - Imperishable Day"
