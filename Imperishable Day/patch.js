@@ -3,7 +3,7 @@
 "nmlgc/base_tsa",
 "ExpHP/bullet_cap"
 ],
-        "id": "ImperishableDay",
+        "id": "Imperishable Day",
         "servers": [
         "https://mirrors.thpatch.net/Wast/Imperishable Day/"
         ],
