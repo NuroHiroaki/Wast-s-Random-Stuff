@@ -6,6 +6,6 @@
     "https://mirrors.thpatch.net/Wast/"
     ],
 "patches": {
-"ImperishableDay": "(TH11) カラスの南の太陽 - Imperishable Day"
+"Imperishable Day": "(TH11) カラスの南の太陽 - Imperishable Day"
     }
 }
